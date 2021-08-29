@@ -1,4 +1,4 @@
-## SIBS320 CATS
+## SIBS320 CATS and Companion Animals
 
 You can use the [editor on GitHub](https://github.com/noahpieta/SIBS_320_cats/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

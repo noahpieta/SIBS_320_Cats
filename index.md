@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SIBS320 CATS
 
 You can use the [editor on GitHub](https://github.com/noahpieta/SIBS_320_cats/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
